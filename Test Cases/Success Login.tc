@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f74cd60-fa2e-4b15-84dd-403629fe8e45</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>67ed0809-ce2b-4010-b7d4-ff3e91287b57</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f5385417-f55b-4376-9836-ed78cd4330d5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nadia@gmail.com'</defaultValue>
+      <description></description>
+      <id>67ed0809-ce2b-4010-b7d4-ff3e91287b57</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>f5385417-f55b-4376-9836-ed78cd4330d5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
